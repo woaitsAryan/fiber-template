@@ -1,0 +1,8 @@
+/public
+.env
+/scripts
+/logs
+/database
+bucket-key*.json
+main
+tmp/
